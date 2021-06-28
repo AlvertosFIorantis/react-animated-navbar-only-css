@@ -1,0 +1,9 @@
+.mainContainer {
+  /* an alakso to width tou navbar pihtanoita na prepei na lakaso kai to margin left gia na  */
+  margin-left: 5rem;
+  /* vazo to margin oste to navbar na min kani overlap to content pou exo diladi to kimeno apla metafero olo tokimeno st aristera san na vazo diladi space otan grafo sto word  to rem einai relevant unit se sxesi me to font size pou exo valei sto root element pou sto sigkekrimeno paradigma eiani 16px = 1rem*/
+  padding: 1rem;
+  /* ah telo to contnetn na einai pio koda sto navbar mikreno to padding */
+  max-width: 100vw;
+  max-height: 100vh;
+}
